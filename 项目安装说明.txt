@@ -1,1 +1,1 @@
-把mysql.jar 放到 lib底下  然后重启
+鎶妋ysql.jar 鏀惧埌 lib搴曚笅  鐒跺悗閲嶅惎
