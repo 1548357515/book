@@ -1,0 +1,1 @@
+把mysql.jar 放到 lib底下  然后重启
